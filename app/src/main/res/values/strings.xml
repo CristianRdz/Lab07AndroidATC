@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab07</string>
+    <string name="car">Delivery mail car</string>
+    <string name="below_car">Mail Schedule Pickup</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="country">Country</string>
+    <string name="schedule">Schedule</string>
+    <string name="edit">Edit</string>
+    <string name="accept">Accept</string>
+    <string name="thanks">Thank you for scheduling a courier pickup with us</string>
+</resources>
